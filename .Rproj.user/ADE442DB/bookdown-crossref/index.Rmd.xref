@@ -1,15 +1,17 @@
 h1:url-your-book-url-like-httpsbookdown.orgyihuibookdown url: your book url like https://bookdown.org/yihui/bookdown
 h1:cover-image-path-to-the-social-sharing-image-like-imagescover.jpg cover-image: path to the social sharing image like images/cover.jpg
-h1:diplomado-levantamiento-de-suelos-para-la-planificación-de-la-tierra Diplomado: Levantamiento de Suelos para la Planificación de la Tierra
+h1:diplomado-levantamiento-de-suelos-para-la-planificación-de-las-tierras Diplomado: Levantamiento de Suelos para la Planificación de las Tierras
 h3:bienvenida Bienvenida
 h3:instrucciones Instrucciones
 h3:objetivos Objetivos
 h4:general General
-h4:específicos Específicos
+h4:dirigido-a Dirigido a
 h3:normas Normas
 h4:fase-1 FASE 1
 h6:modalidad-virtual Modalidad Virtual
-h6:modalidad-mixta Modalidad Mixta
+h5:duracion-160-horas. Duracion: 160 horas.
+h4:fase-2 FASE 2
+h6:modalidad-presencial Modalidad Presencial
 h3:como-aprobar Como aprobar
 h3:facilitadores Facilitadores
 h3:calendario Calendario

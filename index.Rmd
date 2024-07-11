@@ -15,7 +15,7 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Diplomado:  Levantamiento de Suelos para la Planificación de la Tierra {-}
+# Diplomado:  Levantamiento de Suelos para la Planificación de las Tierras  {-}
 
 <center>![](Imagenes/Portada.png)</center>
 
@@ -23,11 +23,14 @@ github-repo: rstudio/bookdown-demo
 
 ### Bienvenida {-}
 
-Los miembros facilitadores, le damos la más cordial bienvenida al **Diplomado sobre Levantamiento de Suelos para la Planificación de la Tierra en el Salvador**. Nuestro grupo se encuentra muy entusiasmado con el inicio de esta actividad, en donde los acompañaremos en la aventura de aprender a caracterizar, clasificar y cartografiar los suelos de su país.
+Los miembros facilitadores, le damos la más cordial bienvenida al Diplomado sobre **Levantamiento de Suelos para la Planificación de la Tierra en el Salvador**. Nuestro grupo se encuentra muy entusiasmado con el inicio de esta actividad, en donde los acompañaremos en la aventura de aprender a caracterizar, clasificar y cartografiar los suelos de su país.
+
+
+Esta capacitación está auspiciada por el **Ministerio de Agricultura y Ganadería** (MAG) de El Salvador, en el marco del Contrato con el **Banco Interamericano de Desarrollo** (BID), para la implementación del "Programa de Fortalecimiento de la Resiliencia Climática de los Bosques Cafetaleros en El Salvador"
 
 ### Instrucciones {-} 
 
-En esta página encontrará diferentes elementos necesarios para cursar con éxito el Diplomado, tales como: indicaciones generales, programación de actividades, sistemas de evaluación, materiales teóricos, prácticos (guías), datos para los ejercicios o prácticas, y bibliografías de interés para su lectura. También encontrará enlaces para la descarga de mucha de la información e inclusive link que lo llevaran a videos, formularios o cuestionarios disponibles del curso.
+En esta página encontrará diferentes elementos necesarios para cursar con éxito el Diplomado, tales como: indicaciones generales, programación de actividades, sistemas de evaluación, materiales teóricos, prácticos (guías), datos para los ejercicios o prácticas, y bibliografías de interés para su lectura. También encontrará enlaces para la descarga de mucha de la información e inclusive link que lo llevarán a videos, formularios o cuestionarios disponibles del curso.
 
 Esta página ha sido diseñada para complementar las actividades presenciales y maximizar las interaccion entre participantes y facilitadores sobre las actividades a realizar.
 
@@ -41,12 +44,9 @@ También podrá revisar sus calificaciones, lo que le permitirá llevar un regis
 
 Formar profesionales con conocimientos actualizados en suelos, con capacidades para: la evaluación e interpretación de información básica sobre clima, biota, hidrología, suelos, geología y geomorfología, entender los diferentes factores y procesos formadores de suelos, determinar e interrelacionar las propiedades biológicas, físicas, químicas y mineralógicas del suelo, para su clasificación taxonómica, adquirir los conocimientos básicos sobre levantamiento de suelos, para su representación en unidades cartográficas y su composición en mapas de suelos, utilizando diferentes técnicas.
 
-#### Específicos {-}
+#### Dirigido a {-}
 
-* Repasar conceptos generales de Clasificación taxonómica y Cartografía de los suelos.
-* Conocer la variabilidad espacial de las tierras en el país,  evidenciando limitaciones, potencialidades y suelos de referencia.
-* Aplicar los fundamentos de la Evaluación de las Tierras, mediante metodologías empleadas en el país, altamente comprobadas y de uso generalizado.
-* Evaluar en campo las tierras de parcelas agropecuarias con limitada información.
+Profesionales en Agrología, Ingeniería Agronómica, Ingeniería Forestal, Ingeniería Agrícola, Geográfica, Ingeniería Ambiental, y otras profesiones afines vinculadas con el sector agrícola o ambiental con interés en conocimientos actualizados en la Ciencia del Suelo.
 
 ---
 
@@ -56,54 +56,63 @@ Formar profesionales con conocimientos actualizados en suelos, con capacidades p
 
 ###### Modalidad Virtual {-}
 
-Evaluación de Tierras es una asignatura del séptimo semestre, y se dicta en una sesión Teórica-práctica de 3 horas de duración los días jueves y viernes en el horario de 1:30 pm – 4:45 pm., en aulas del Departamento de Edafología.
+Se dictará en sesiones Teórico-prácticas de 4 horas de duración de lunes a viernes en el horario de 2:00 pm – 6:00 pm., en la plataforma Google meet.
 
-Las sesiones Teórico-prácticas son de obligatoria asistencia, tal como lo establece el reglamento vigente.
+Las sesiones Teórico-prácticas son de obligatoria asistencia.
 
-Debes asistir a la sección Teórico-prácticas en la cual se inscribió; no puedes recuperar prácticas en otro grupo sin la debida autorización de su profesor y del profesor del grupo al cual quieres asistir.
+Los facilitadores están a su disposición para orientarte y ayudarte a solventar los problemas que se le puedan presentar, con respecto a las clases, material de apoyo, etc.
 
-Solo se te permitirá la recuperación de una práctica por cada Unidad de la asignatura.
+Todas las clases estarán disponibles en https://samoy315.github.io/Salvador/ 
 
-La no asistencia o incumplimiento de las actividades programadas por la asignatura deberá ser informada por escrito a la Cátedra dentro de las 48 horas de haber ocurrido la falta, incluyendo las constancias y los avales necesarios para su justificación.
+El material de apoyo (artículos, libros, ejercicios, videos, etc) también estarán disponible en ese link.
 
-Deberás entregar la comunicación y los avales respectivos en la Secretaría del Departamento de Edafología o enviarla al correo electrónico del profesor  samoy315@gmail.com, donde será considerada en la próxima reunión de cátedra.
+##### Duracion: 160 horas. {-}
 
-Si tienes algún problema personal o actividad permanente que le impida asistir a las clases, debes dirigirte a la Dirección de Escuela o al Consejo de Facultad solicitando aval para las inasistencias, pues la Cátedra no tiene potestad para hacerlo.
+Para optar al Diploma, el participante debe completar las evaluaciones y un porcentaje de asistencia de un 80%.
 
-La cátedra de Evaluación de Tierras, con sus profesores y todo el personal de apoyo, están a su disposición para orientarte y ayudarte a solventar los problemas que se le puedan presentar, siempre y cuando acudas a ellos, conozcan y acaten las reglas establecidas y asuma con responsabilidad el compromiso con la asignatura.
+#### FASE 2 {-}
 
-###### Modalidad Mixta {-}
+###### Modalidad Presencial {-}
 
-En esta modalidad compartiremos actividades tanto a distancia como presenciales, estas últimas contemplan algunas prácticas en laboratorio y todas las de campo, además de la totalidad de las evaluaciones que son de obligatoria asistencia.
-
-Para las actividades a distancia dispondremos de varias opciones para el apoyo a los estudiantes: a) Realizaremos reuniones vía meet o zoom en el horario de clases de la asignatura, es decir Jueves y Viernes de 1:30 pm a 4:45 pm. en donde su profesor estara atento a cualquier pregunta, duda o inquietud que tengas los estudiantes. b) la asignatura dispondrá de un canal o grupo en Telegram para aclarar dudas o proporcionar información general de interés para el éxito del semestre. c) También podrá comunicarse con su profesor vía correo electrónico, los cuales se especifican más adelante.
-
+Esta fase incluye principalmente **actividad de campo**, con sesiones de gabinete para el procesamiento de la información .
 
 ---
 
 ### Como aprobar {-}
 
-Para poder aprobar esta asignatura, deberá obtener una calificación mínima acumulada de 10 puntos (escala de 1 al 20 puntos), basado en la información que se presenta en el siguiente cuadro. Las evaluaciones perdidas contarán como cero puntos.
+Para poder aprobar el diplomado, deberá obtener una calificación mínima acumulada de 10 puntos (escala de 1 a 20 puntos), basado en la información que se presenta en el siguiente cuadro. Las evaluaciones perdidas contarán como cero puntos.
 
-<center>***Cuadro 1**. Plan de evaluacion de la asignatura*</center>
+Cada facilitador realizará la evaluación de los temas tratados.
 
+
+<center>***Cuadro 1**. Plan de evaluación por tema.*</center>
+
+<div style="font-size: 13px">
+|Descripción de la evaluación|Porcentaje (%)|
+|:---:|:---:|:---:|
+|Evaluaciones cortas después de cada clase|30|
+|Intervenciones en clase|15|
+|Asistencia|15|
+|Examen del tema|40|
+
+</div>
 ![](Imagenes/Aprobar2.PNG)
 
 ---
 
 ### Facilitadores {-}
 
-Conozca nuestro personal docente en el **Cuadro 2**. y no está demás hacer de su conocimiento que estamos a su disposición para ayudarlo a avanzar en su proceso de formación y por eso, no dude en contactarnos si lo requiere.
+Conozca nuestro personal docente en el Cuadro 2. No está demás hacer de su conocimiento que estamos a su disposición para ayudarlo a avanzar en su proceso de formación y por eso, no dude en contactarnos si lo requiere.
 
-<center> **Cuadro 2.**   Facilitadores del curso. </center>
+<center> **Cuadro 2.**   Facilitadores del diplomado. </center>
 
 <div style="font-size: 10px">
 |Facilitador|Tema|Correo|
 |:---:|:---:|:---:|
-|Dr. Deyanira Lobo|Teoria de suelos|lobo.deyanira@gmail.com|
-|Dr. Jesus Viloria|Genesis, Clasificacion y Cartografia|jesus.viloria@gmail.com|
-|MSc. Pedro Garcia|Geomorfologia de suelos|prgm2002@gmail.com|
-|MSc. Victor Sevilla|SIG y Cartografia de suelos|samoy315@gmail.com|
+|Dr. Deyanira Lobo L.|Formación de suelos|lobolujan66@gmail.com|
+|Dr. Jesus Viloria R.|Clasificación y Cartografía de suelos|jesus.viloria@gmail.com|
+|MSc. Pedro Garcia M.|Geomorfología de suelos|prgm2002@gmail.com|
+|MSc. Victor Sevilla L.|SIG y Cartografía de suelos|samoy315@gmail.com|
 
 </div>
 

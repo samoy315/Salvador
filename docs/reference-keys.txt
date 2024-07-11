@@ -6,4 +6,3 @@ jesus-viloria
 victor-sevilla
 chapters-and-sub-chapters
 captioned-figures-and-tables
-fase-1
