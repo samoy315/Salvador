@@ -91,18 +91,18 @@ Para poder aprobar esta asignatura, deberá obtener una calificación mínima ac
 
 ---
 
-### Profesores {-}
+### Facilitadores {-}
 
 Conozca nuestro personal docente en el **Cuadro 2**. y no está demás hacer de su conocimiento que estamos a su disposición para ayudarlo a avanzar en su proceso de formación y por eso, no dude en contactarnos si lo requiere.
 
-<center> ***Cuadro 2.** Profesores de la asignatura **Evaluacion de Tierras*** </center>
+<center> **Cuadro 2.**   Facilitadores del curso. </center>
 
 <div style="font-size: 10px">
-|Profesor|Tema|Correo|
+|Facilitador|Tema|Correo|
 |:---:|:---:|:---:|
-|Dr. Deyanira Lobos|Teoria de suelos|jcrey67@gmail.com|
+|Dr. Deyanira Lobo|Teoria de suelos|lobo.deyanira@gmail.com|
 |Dr. Jesus Viloria|Genesis, Clasificacion y Cartografia|jesus.viloria@gmail.com|
-|MSc. Pedro Garcia|Geomorfologia de suelos|barbara.rodriguez.mg@gmail.com|
+|MSc. Pedro Garcia|Geomorfologia de suelos|prgm2002@gmail.com|
 |MSc. Victor Sevilla|SIG y Cartografia de suelos|samoy315@gmail.com|
 
 </div>
