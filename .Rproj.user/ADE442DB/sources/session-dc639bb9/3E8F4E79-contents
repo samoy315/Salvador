@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./"><b>Suelos del Salvador</b></a></li>
+        <li><a href="./"><b>Suelos de El Salvador</b></a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 #     edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
