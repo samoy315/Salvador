@@ -1,6 +1,6 @@
 --- 
-title: "SUELOS DEL SALVADOR"
-author: "Deyanira Lobos, Jesus Viloria, Pedro Garcia y Victor Sevilla."
+title: "SUELOS DE EL SALVADOR"
+author: "Deyanira Lobo, Jesus Viloria, Pedro Garcia y Victor Sevilla."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -15,7 +15,7 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Diplomado de  Agrologia {-}
+# Diplomado:  Levantamiento de Suelos para la Planificación de la Tierra {-}
 
 <center>![](Imagenes/Portada.png)</center>
 
@@ -23,13 +23,13 @@ github-repo: rstudio/bookdown-demo
 
 ### Bienvenida {-}
 
-Los miembros facilitadores, le damos la más cordial bienvenida al **Diplomado sobre el estudio de los suelos en el Salvador**. Nuestro grupo se encuentra muy entusiasmado con el inicio de esta actividad, en donde los acompañaremos en la aventura de aprender a caracterizar, clasificar y cartografiar suelos de su pais.
+Los miembros facilitadores, le damos la más cordial bienvenida al Diplomado sobre Levantamiento de Suelos para la Planificación de la Tierra en el Salvador. Nuestro grupo se encuentra muy entusiasmado con el inicio de esta actividad, en donde los acompañaremos en la aventura de aprender a caracterizar, clasificar y cartografiar los suelos de su país.
 
 ### Instrucciones {-} 
 
-En esta página encontrará diferentes elementos necesarios para cursar con éxito el Diplomado, tales como: indicaciones generales, programación de actividades, sistemas de evaluación, materiales teóricos, prácticos (guías), datos para los ejercicios o practicas, y bibliografías de interés para su lectura. También encontrará enlaces para la descarga de mucha de la información e inclusive link que lo llevaran a videos, formularios o cuestionarios disponibles de la asignatura.
+En esta página encontrará diferentes elementos necesarios para cursar con éxito el Diplomado, tales como: indicaciones generales, programación de actividades, sistemas de evaluación, materiales teóricos, prácticos (guías), datos para los ejercicios o prácticas, y bibliografías de interés para su lectura. También encontrará enlaces para la descarga de mucha de la información e inclusive link que lo llevaran a videos, formularios o cuestionarios disponibles del curso.
 
-Esta página ha sido diseñada para complementar las actividades presenciales y maximizar las interaccion entre alumnos y profesores sobre las actividades a realizar.
+Esta página ha sido diseñada para complementar las actividades presenciales y maximizar las interaccion entre participantes y facilitadores sobre las actividades a realizar.
 
 También podrá revisar sus calificaciones, lo que le permitirá llevar un registro de su rendimiento académico.
 
@@ -39,7 +39,7 @@ También podrá revisar sus calificaciones, lo que le permitirá llevar un regis
 
 #### General {-}
 
-El objetivo general de esta asignatura es capacitar a los estudiantes en la evaluación e interpretación de información básica sobre clima, biota, hidrología, suelos, geología y geomorfología, para establecer la capacidad de uso agropecuario que posean las tierras y su aptitudes para usos agrícolas específicos sostenibles.
+Formar profesionales con conocimientos actualizados en suelos, con capacidades para: la evaluación e interpretación de información básica sobre clima, biota, hidrología, suelos, geología y geomorfología, entender los diferentes factores y procesos formadores de suelos, determinar e interrelacionar las propiedades biológicas, físicas, químicas y mineralógicas del suelo, para su clasificación taxonómica, adquirir los conocimientos básicos sobre levantamiento de suelos, para su representación en unidades cartográficas y su composición en mapas de suelos, utilizando diferentes técnicas.
 
 #### Específicos {-}
 
@@ -52,7 +52,9 @@ El objetivo general de esta asignatura es capacitar a los estudiantes en la eval
 
 ### Normas {-}
 
-###### Modalidad Presencial {-}
+#### FASE 1 {-}
+
+###### Modalidad Virtual {-}
 
 Evaluación de Tierras es una asignatura del séptimo semestre, y se dicta en una sesión Teórica-práctica de 3 horas de duración los días jueves y viernes en el horario de 1:30 pm – 4:45 pm., en aulas del Departamento de Edafología.
 
