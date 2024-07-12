@@ -72,6 +72,18 @@ Para optar al Diploma, el participante debe completar las evaluaciones y un porc
 
 #### FASE 2 {-}
 
+**Levantamiento de suelos en Campo. Cartografía de suelos**
+
+Objetivos
+
+Durante esta Fase, el participante desarrollará las siguientes competencias:
+
+* Caracterizar perfiles de suelos y su entorno, y tomar muestras para análisis de laboratorio. 
+* Analizar resultados de análisis de laboratorio de perfiles de suelo.
+* Establecer relaciones entre procesos edafogénicos y geomorfológicos en el área estudiada.
+* Crear una agrupación local de suelos por medio de métodos cuantitativos y correlacionar cada grupo obtenido con clases de la Taxonomía de Suelos.
+* Producir modelos de predicción espacial de propiedades y clases de suelo con la ayuda de técnicas de cartografía digital de suelo.
+
 ###### Modalidad Presencial {-}
 
 Esta fase incluye principalmente **actividad de campo**, con sesiones de gabinete para el procesamiento de la información .
