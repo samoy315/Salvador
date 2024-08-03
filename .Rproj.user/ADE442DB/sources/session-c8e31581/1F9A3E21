@@ -3,7 +3,7 @@
     "path": "C:/Sevilla/Markdown/Salvador/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "2713787328",
+    "hash": "929172092",
     "contents": "",
     "dirty": false,
     "created": 1716128812524.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "170,2",
-        "scrollLine": "154"
+        "cursorPosition": "177,0",
+        "scrollLine": "168"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722707589,
+    "lastKnownWriteTime": 1722711484,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722707589112,
+    "last_content_update": 1722711484092,
     "read_only": false,
     "read_only_alternatives": []
 }
