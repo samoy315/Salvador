@@ -1,4 +1,0 @@
-fig:nice-fig
-tab:nice-tab
-chapters-and-sub-chapters
-captioned-figures-and-tables
