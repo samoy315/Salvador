@@ -122,7 +122,7 @@ Conozca nuestro personal docente en el Cuadro 2. No está demás hacer de su con
 |Facilitador|Tema|Correo|
 |:---:|:---:|:---:|
 |Dr. Deyanira Lobo L.|Formación de suelos|lobolujan66@gmail.com|
-|Dr. Jesus Viloria R.|Clasificación y Cartografía de suelos|jesus.viloria@gmail.com|
+|Dr. Jesus Viloria R.|Genesis y Clasificacion de suelos|jesus.viloria@gmail.com|
 |MSc. Pedro Garcia M.|Relaciones suelo - paisaje|prgm2002@gmail.com|
 |MSc. Victor Sevilla L.|SIG y Cartografía de suelos|samoy315@gmail.com|
 
