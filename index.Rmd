@@ -165,10 +165,10 @@ A continuación en el **Cuadro 3**, se muestran los contenidos del Diplomado de 
 |Clase|Contenido|
 |:---:|:---|
 |1|Definición y objeto de la Geomorfología. Conceptos básicos|
-|13|Relaciones entre la Geomorfología y otras disciplinas|
-|14|El método en Geomorfología|
-|15|El paisaje geomorfológico, geoformas y Taxonomía|
-|16|Paisajes de suelo y geoformas, La cuenca, patrones de drenaje|
+|2|Relaciones entre la Geomorfología y otras disciplinas|
+|3|El método en Geomorfología|
+|4|El paisaje geomorfológico, geoformas y Taxonomía|
+|5|Paisajes de suelo y geoformas, La cuenca, patrones de drenaje|
 
 <h6 style="text-align: center;">Unidad 4. SIG y Cartografia</h1>
 
