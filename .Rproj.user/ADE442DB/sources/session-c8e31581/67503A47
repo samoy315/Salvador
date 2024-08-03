@@ -3,7 +3,7 @@
     "path": "C:/Sevilla/Markdown/Salvador/01-Formacion_suelos.Rmd",
     "project_path": "01-Formacion_suelos.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "4130405412",
     "contents": "",
     "dirty": false,
     "created": 1720799714883.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "48,43",
+        "cursorPosition": "44,77",
         "scrollLine": "35"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722703609,
+    "lastKnownWriteTime": 1722720228,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722703609557,
+    "last_content_update": 1722720228303,
     "read_only": false,
     "read_only_alternatives": []
 }
