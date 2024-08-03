@@ -123,7 +123,7 @@ Conozca nuestro personal docente en el Cuadro 2. No está demás hacer de su con
 |:---:|:---:|:---:|
 |Dr. Deyanira Lobo L.|Formación de suelos|lobolujan66@gmail.com|
 |Dr. Jesus Viloria R.|Clasificación y Cartografía de suelos|jesus.viloria@gmail.com|
-|MSc. Pedro Garcia M.|Geomorfología de suelos|prgm2002@gmail.com|
+|MSc. Pedro Garcia M.|Relaciones suelo - paisaje|prgm2002@gmail.com|
 |MSc. Victor Sevilla L.|SIG y Cartografía de suelos|samoy315@gmail.com|
 
 </div>
@@ -180,14 +180,33 @@ A continuación en el **Cuadro 3**, se muestran los contenidos del Diplomado de 
 
 |Clase|Contenido|
 |:---:|:---|
-|1|Historia de los SIG, Definiciones y ejemplo de aplicacion|
-|2|Componentes de SIG y Modelos de representacion|
-|3|Descarga, Instalacion, Recorrido, Complementos, Propiedades de QGIS|
-|4|Tipos y edicion de Elementos Geograficos, Sistemas de coordenadas|
-|5|Introduccion de datos, Coordenadas y creacion y edicion de capas|
+||**Fundamentos de SIG**|
+|1|Historia de los SIG, Definiciones y ejemplo de aplicación|
+|2|Componentes de SIG y Modelos de representación|
+|3|Descarga, Instalación, Recorrido, Complementos, Propiedades de QGIS|
+|4|Tipos y edición de Elementos Geográficos, Sistemas de coordenadas|
+|5|Introduccion de datos, Coordenadas y creación y edición de capas|
 |6|Manejo de datos atributivos - Tablas|
 |7|Analsis espacial y diseño de salidas graficas|
-|8|Algunas fuentes de informacion geo espacial disponible|
+|8|Algunas fuentes de información geo espacial disponible|
+||**Cartografía convencional de suelos**|
+|9|Modelos de formación de suelos|
+|10|Modelos de variación espacial de suelos|
+|11|Fundamentos de cartografía de suelos|
+|12|Levantamiento convencional de suelos|
+|13|Control de calidad de mapas de suelos|
+|14|Limitaciones del mapa convencional de suelos|
+|15|Ejercicio práctico|
+||**Cartografía Digital de suelos**|
+|16|Antecedentes, conceptos básicos|
+|17|Metoodos de Cartografía digital|
+|18|Antecedentes, conceptos básicos|
+|19|Antecedentes, conceptos básicos|
+|20|Complementacion de la cartografía convencional y digital|
+|21|Ejercicio práctico|
+
+
+
 <!-- |xx|<a href="https://youtu.be/JE0vUiCQrvs">prueba</a>| -->
 
 ---

@@ -1,3 +1,0 @@
-eq:binom
-thm:tri
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
