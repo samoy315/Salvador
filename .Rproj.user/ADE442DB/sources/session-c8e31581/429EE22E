@@ -3,9 +3,9 @@
     "path": "C:/Sevilla/Markdown/Salvador/02-Genesis_Clasificacion.Rmd",
     "project_path": "02-Genesis_Clasificacion.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2645025142",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1722694765562.0,
     "source_on_save": false,
     "relative_order": 4,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1722782658,
+    "lastKnownWriteTime": 1722791568,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1722785625155,
+    "last_content_update": 1722791568816,
     "read_only": false,
     "read_only_alternatives": []
 }
