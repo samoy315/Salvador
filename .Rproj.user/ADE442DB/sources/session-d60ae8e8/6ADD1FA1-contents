@@ -5,8 +5,8 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-#url: your book url like https://bookdown.org/yihui/bookdown
-#cover-image: path to the social sharing image like images/cover.jpg
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
   The HTML output format for this example is bookdown::gitbook,
@@ -164,22 +164,18 @@ A continuación en el **Cuadro 3**, se muestran los contenidos del Diplomado de 
 
 |Clase|Contenido|
 |:---:|:---|
-|1|Introducción y principios de la Geomorfología - Conceptos básicos|
-|2|Breve introducción a la geomorfología climática|
-|3|La geomorfología en levantamiento de suelos - Geopedología|
-|4|La contribución de la geomorfología al levantamiento de suelos|
-|5|La génesis de los paisajes y las geoformas|
-|6|El paisaje geomorfológico: criterios para clasificar las geoformas|
-|7|Bases para un sistema de clasificación taxonómica de las geoformas|
-|8|La taxonomía: categorías y principales clases de geotaxa|
-|9|Tipos de relieve - El modelado de las geoformas - Taxa|
-|10|Forma de terreno - Taxa|
-|11|El paisaje geomorfológico: atributos de las geoformas|
-|12|Metodología para delimitación de unidades geomorfológicas|
-|13|El mapa geomorfológico, etapas en su elaboración|
-|14|Información incluida en el informe de un estudio geomorfológico|
-|15|Ejemplos de geoformas de acuerdo al ambiente morfogenético|
-|16|Visión preliminar sobre el contexto geomorfológico de El Salvador|
+|1|Definición y objeto de la Geomorfología. Conceptos básicos|
+|2|Relaciones entre la Geomorfología y otras disciplinas|
+|3|El método en Geomorfología|
+|4|El paisaje geomorfológico, geoformas y Taxonomía|
+|5|Paisajes de suelo y geoformas, La cuenca, patrones de drenaje|
+|6|Factores físico-naturales y su influencia en paisaje de montaña|
+|7|La actividad morfodinámica y la evolución del paisaje geomorfológico|
+|8|Formas de modelado. Modelos generales: catenas, ciclos K|
+|9|Ejemplo paisajes volcánicos, laderas, piedemonte, terrazas, llanuras|
+|10|Cartografía geomorfológica, limitaciones ventajas|
+|11|Aplicación del mapa geomorfológico. El informe geomorfológico|
+|12|La contribución de la geomorfología al levantamiento de suelos|
 
 <h6 style="text-align: center;">Unidad 4. SIG y Cartografia</h1>
 
