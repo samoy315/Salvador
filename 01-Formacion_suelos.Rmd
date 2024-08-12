@@ -52,3 +52,17 @@ En esta unidad estudiaremos los conceptos que tienen que ver con el **“Suelo�
 <a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema 2.4 y 2.5_ La Biota y el tiempo como factores formadores de suelo.pdf" target="_blank" title="La Biota y el Tiempo como factores formadores"><img src="Imagenes/presentacion3.png" alt="La Biota y el Tiempo" width="126" height="107"/></a>
 </p>
 </div>
+
+---
+
+### Morfología de suelos {-}
+
+###### _Clase 5_: Morfología de suelos: Características físicas, químicas y biológicas del suelo. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema_3_Morfologia_Suelos.pdf" target="_blank" title="Morfologia Suelos"><img src="Imagenes/presentacion3.png" alt="Morfologia Suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+---
