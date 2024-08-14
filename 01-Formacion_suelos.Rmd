@@ -66,3 +66,25 @@ En esta unidad estudiaremos los conceptos que tienen que ver con el **“Suelo�
 </div>
 
 ---
+
+### Procesos Formadores de Suelo {-}
+
+###### _Clase 6_: Son acciones que se producen en el suelo como un todo o en alguno de sus componentes, por intercambios de materia y energía entre sus propios compuestos y con su medio ambiente, que con el tiempo generan cambios en la composición y/o las propiedades físicas, químicas, biológicas, mineralógicas y/o estructurales. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema_4_Procesos_formadores_Generales.pdf" target="_blank" title="Procesos Formadores de Suelo"><img src="Imagenes/presentacion3.png" alt="Procesos Formadores de Suelo" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Procesos específicos de formación de suelos {-}
+
+###### _Clase 7_: Procesos específicos de formación de suelos  {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema_5_Procesos_específicos.pdf" target="_blank" title="Procesos específicos de formación de suelos"><img src="Imagenes/presentacion3.png" alt="Procesos específicos de formación de suelos" width="126" height="107"/></a>
+</p>
+</div>
