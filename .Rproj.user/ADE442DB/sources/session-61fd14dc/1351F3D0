@@ -3,7 +3,7 @@
     "path": "C:/Sevilla/Markdown/Salvador/04-SIG_Cartografia.Rmd",
     "project_path": "04-SIG_Cartografia.Rmd",
     "type": "r_markdown",
-    "hash": "4002565247",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1722694922375.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "44,0",
-        "scrollLine": "32"
+        "cursorPosition": "1,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1723843692,
+    "lastKnownWriteTime": 1723844919,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1723843692170,
+    "last_content_update": 1723844919140,
     "read_only": false,
     "read_only_alternatives": []
 }
