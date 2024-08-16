@@ -29,8 +29,8 @@ En este apartado encontrará múltiples documentos para su lectura, referentes a
 
 |Descripción del material|
 |:---|
-<!-- |[Directivas FAO para la evaluación de tierras en agricultura de secano](pdf/Unidad2/Directivas_evaluacion_tierras_agricultura_secano.pdf)| -->
-<!-- |[Directivas FAO para la evaluación de tierras en agricultura de regadío](pdf/Unidad2/Directivas_evaluacion_tierras_agricultura_regadio.pdf)| -->
+|[Claves para la Taxonomía de Suelos 2014](pdf/Unidad1/Soil_Taxonomy_2014_ espanol.pdf)|
+|[Base referencial mundial del recurso suelo 2014](pdf/Unidad4/WRB espanol 2014.pdf)|
 
 <br>
 

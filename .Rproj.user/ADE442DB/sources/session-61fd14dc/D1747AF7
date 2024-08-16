@@ -3,7 +3,7 @@
     "path": "C:/Sevilla/Markdown/Salvador/05-Material_Bibliografico.Rmd",
     "project_path": "05-Material_Bibliografico.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "4090705533",
     "contents": "",
     "dirty": false,
     "created": 1722706095887.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "21,0",
-        "scrollLine": "0"
+        "cursorPosition": "32,83",
+        "scrollLine": "21"
     },
     "folds": "",
-    "lastKnownWriteTime": 1723647571,
+    "lastKnownWriteTime": 1723843980,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1723647571078,
+    "last_content_update": 1723843980703,
     "read_only": false,
     "read_only_alternatives": []
 }
