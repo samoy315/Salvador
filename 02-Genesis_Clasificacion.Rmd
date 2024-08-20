@@ -40,5 +40,3 @@ En esta unidad estudiaremos los conceptos que tienen que ver con el **â€œSueloâ€
 <a style = 'padding-right: 40px;' href="pdf/Unidad2/6_3_Base_Refer_Mundial_WRB.pdf" target="_blank" title="Base Referencial de suelos"><img src="Imagenes/presentacion3.png" alt="Base Referencial de suelos" width="126" height="107"/></a>
 </p>
 </div>
-
----

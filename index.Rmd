@@ -1,25 +1,25 @@
---- 
+---
 title: "SUELOS DE EL SALVADOR"
 author: "Deyanira Lobo, Jesus Viloria, Pedro Garcia y Victor Sevilla."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
-#url: your book url like https://bookdown.org/yihui/bookdown
-#cover-image: path to the social sharing image like images/cover.jpg
+bibliography:
+- book.bib
+- packages.bib
 description: |
   This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
   set in the _output.yml file.
-link-citations: yes
-github-repo: rstudio/bookdown-demo
+  The HTML output format for this example is bookdown::gitbook,
+link-citations: true
+github-repo: "rstudio/bookdown-demo"
 ---
 
 # **Diplomado:  Levantamiento de Suelos para la Planificación de Tierras**  {-}
 
 <center>![](Imagenes/Portada.png)</center>
 
----
+
 
 ### Bienvenida {-}
 
@@ -36,7 +36,7 @@ Esta página ha sido diseñada para complementar las actividades presenciales y 
 
 También podrá revisar sus calificaciones, lo que le permitirá llevar un registro de su rendimiento académico.
 
----
+
 
 ### Objetivos {-}
 
@@ -48,7 +48,7 @@ Formar profesionales con conocimientos actualizados en suelos, con capacidades p
 
 Profesionales en Agrología, Ingeniería Agronómica, Ingeniería Forestal, Ingeniería Agrícola, Geográfica, Ingeniería Ambiental, y otras profesiones afines vinculadas con el sector agrícola o ambiental con interés en conocimientos actualizados en la Ciencia del Suelo.
 
----
+
 
 ### Normas {-}
 
@@ -88,7 +88,7 @@ Durante esta Fase, el participante desarrollará las siguientes competencias:
 
 Esta fase incluye principalmente **actividad de campo**, con sesiones de gabinete para el procesamiento de la información .
 
----
+
 
 ### Como aprobar {-}
 
@@ -110,7 +110,7 @@ Cada facilitador realizará la evaluación de los temas tratados.
 </div>
 
 
----
+
 
 ### Facilitadores {-}
 
@@ -128,7 +128,7 @@ Conozca nuestro personal docente en el Cuadro 2. No está demás hacer de su con
 
 </div>
 
----
+
 
 ### Calendario {-}
 
@@ -209,9 +209,3 @@ A continuación en el **Cuadro 3**, se muestran los contenidos del Diplomado de 
 |19|Antecedentes, conceptos básicos|
 |20|Complementacion de la cartografía convencional y digital|
 |21|Ejercicio práctico|
-
-
-
-<!-- |xx|<a href="https://youtu.be/JE0vUiCQrvs">prueba</a>| -->
-
----

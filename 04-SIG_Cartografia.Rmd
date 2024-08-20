@@ -6,7 +6,7 @@ En esta unidad estudiaremos los conceptos que tienen que ver con el **“Suelo�
 
 ---
 
-<center><h3 style= "color: green"> Cartografía convencional de suelos</h3></center>
+<!-- <center><h3 style= "color: green"> Cartografía convencional de suelos</h3></center> -->
 
 ---
 

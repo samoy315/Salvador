@@ -1,0 +1,533 @@
+--- 
+title: "SUELOS DE EL SALVADOR"
+author: "Deyanira Lobo, Jesus Viloria, Pedro Garcia y Victor Sevilla."
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  set in the _output.yml file.
+  The HTML output format for this example is bookdown::gitbook,
+link-citations: true
+github-repo: "rstudio/bookdown-demo"
+---
+
+# **Diplomado:  Levantamiento de Suelos para la Planificación de Tierras**  {-}
+
+<center>![](Imagenes/Portada.png)</center>
+
+
+
+### Bienvenida {-}
+
+Los miembros facilitadores, le damos la más cordial bienvenida al Diplomado sobre **Levantamiento de Suelos para la Planificación de Tierras**. Nuestro grupo se encuentra muy entusiasmado con el inicio de esta actividad, en donde los acompañaremos en la aventura de aprender a caracterizar, clasificar y cartografiar los suelos de su país.
+
+
+Esta capacitación está auspiciada por el **Ministerio de Agricultura y Ganadería** (MAG) de El Salvador, en el marco del Contrato con el **Banco Interamericano de Desarrollo** (BID), para la implementación del "Programa de Fortalecimiento de la Resiliencia Climática de los Bosques Cafetaleros en El Salvador"
+
+### Instrucciones {-} 
+
+En esta página encontrará diferentes elementos necesarios para cursar con éxito el Diplomado, tales como: indicaciones generales, programación de actividades, sistemas de evaluación, materiales teóricos, prácticos (guías), datos para los ejercicios o prácticas, y bibliografías de interés para su lectura. También encontrará enlaces para la descarga de mucha de la información e inclusive link que lo llevarán a videos, formularios o cuestionarios disponibles del curso.
+
+Esta página ha sido diseñada para complementar las actividades presenciales y maximizar las interaccion entre participantes y facilitadores sobre las actividades a realizar.
+
+También podrá revisar sus calificaciones, lo que le permitirá llevar un registro de su rendimiento académico.
+
+
+
+### Objetivos {-}
+
+#### General {-}
+
+Formar profesionales con conocimientos actualizados en suelos, con capacidades para: la evaluación e interpretación de información básica sobre clima, biota, hidrología, suelos, geología y geomorfología, entender los diferentes factores y procesos formadores de suelos, determinar e interrelacionar las propiedades biológicas, físicas, químicas y mineralógicas del suelo, para su clasificación taxonómica, adquirir los conocimientos básicos sobre levantamiento de suelos, para su representación en unidades cartográficas y su composición en mapas de suelos, utilizando diferentes técnicas.
+
+#### Dirigido a {-}
+
+Profesionales en Agrología, Ingeniería Agronómica, Ingeniería Forestal, Ingeniería Agrícola, Geográfica, Ingeniería Ambiental, y otras profesiones afines vinculadas con el sector agrícola o ambiental con interés en conocimientos actualizados en la Ciencia del Suelo.
+
+
+
+### Normas {-}
+
+#### FASE 1 {-}
+
+###### Modalidad Virtual {-}
+
+Se dictará en sesiones Teórico-prácticas de 4 horas de duración de lunes a viernes en el horario de 1:30 a 5:30 pm., en la plataforma Google meet.
+
+Las sesiones Teórico-prácticas son de obligatoria asistencia.
+
+Los facilitadores están a su disposición para orientarte y ayudarte a solventar los problemas que se le puedan presentar, con respecto a las clases, material de apoyo, etc.
+
+Todas las clases estarán disponibles en https://samoy315.github.io/Salvador/ 
+
+El material de apoyo (artículos, libros, ejercicios, videos, etc) también estarán disponible en ese link.
+
+##### Duracion: 160 horas. {-}
+
+Para optar al Diploma, el participante debe completar las evaluaciones y un porcentaje de asistencia de un 80%.
+
+#### FASE 2 {-}
+
+**Levantamiento de suelos en Campo. Cartografía de suelos**
+
+Objetivos
+
+Durante esta Fase, el participante desarrollará las siguientes competencias:
+
+* Caracterizar perfiles de suelos y su entorno, y tomar muestras para análisis de laboratorio. 
+* Analizar resultados de análisis de laboratorio de perfiles de suelo.
+* Establecer relaciones entre procesos edafogénicos y geomorfológicos en el área estudiada.
+* Crear una agrupación local de suelos por medio de métodos cuantitativos y correlacionar cada grupo obtenido con clases de la Taxonomía de Suelos.
+* Producir modelos de predicción espacial de propiedades y clases de suelo con la ayuda de técnicas de cartografía digital de suelo.
+
+###### Modalidad Presencial {-}
+
+Esta fase incluye principalmente **actividad de campo**, con sesiones de gabinete para el procesamiento de la información .
+
+
+
+### Como aprobar {-}
+
+Para poder aprobar el diplomado, deberá obtener una calificación mínima acumulada de 10 puntos (escala de 1 a 20 puntos), basado en la información que se presenta en el siguiente cuadro. Las evaluaciones perdidas contarán como cero puntos.
+
+Cada facilitador realizará la evaluación de los temas tratados.
+
+
+<center>***Cuadro 1**. Plan de evaluación por tema.*</center>
+
+<div style="font-size: 13px">
+|Descripción de la evaluación|Porcentaje (%)|
+|:---:|:---:|:---:|
+|Evaluaciones cortas después de cada clase|30|
+|Intervenciones en clase|15|
+|Asistencia|15|
+|Examen del tema|40|
+
+</div>
+
+
+
+
+### Facilitadores {-}
+
+Conozca nuestro personal docente en el Cuadro 2. No está demás hacer de su conocimiento que estamos a su disposición para ayudarlo a avanzar en su proceso de formación y por eso, no dude en contactarnos si lo requiere.
+
+<center> **Cuadro 2.**   Facilitadores del diplomado. </center>
+
+<div style="font-size: 10px">
+|Facilitador|Tema|Correo|
+|:---:|:---:|:---:|
+|Dr. Deyanira Lobo L.|Formación de suelos|lobolujan66@gmail.com|
+|Dr. Jesus Viloria R.|Genesis y Clasificacion de suelos|jesus.viloria@gmail.com|
+|MSc. Pedro Garcia M.|Relaciones suelo - paisaje|prgm2002@gmail.com|
+|MSc. Victor Sevilla L.|SIG y Cartografía de suelos|samoy315@gmail.com|
+
+</div>
+
+
+
+### Calendario {-}
+
+A continuación en el **Cuadro 3**, se muestran los contenidos del Diplomado de **Levantamiento de Suelos para la Planificación de las Tierras**. Cada unidad dispondrá de materiales de estudio (teóricos - prácticos), actividades y evaluaciones.
+
+<center>***Cuadro 3**. Calendario academico de la **Fase 1***</center>
+
+<h6 style="text-align: center;">Unidad 1. Formacion de suelos</h1>
+
+|Clase|Contenido|
+|:---:|:---|
+|1|El suelo y el Material Parental como factor formador de suelos|
+|2|El Clima como factor formador de suelos|
+|3|El Relieve como factor formador de suelos|
+|4|La Biota y el Tiempo como factores formadores de suelos|
+|5|Propiedades morfológicas del suelo|
+|6|Propiedades físicas, químicas y biológicas del suelo|
+|7|Procesos Básicos|
+|8|Procesos específicos de formación de suelos|
+|9|Procesos específicos de translocación|
+|10|Los factores y procesos formadores de suelo y los grupos de suelo|
+
+<h6 style="text-align: center;">Unidad 2. Genesis y Clasificacion de suelos</h1>
+
+|Clase|Contenido|
+|:---:|:---|
+|1|Fundamentos de la Clasificacion de suelos|
+|2|Evolucion progresiva y regresiva|
+|3|Interpretación de nombres de clases taxonómicas de suelos|
+|4|Clasificaciones interpretativas. Ejemplos|
+
+<h6 style="text-align: center;">Unidad 3. Relaciones suelo - paisaje</h1>
+
+|Clase|Contenido|
+|:---:|:---|
+|1|Introducción y principios de la Geomorfología - Conceptos básicos|
+|2|Breve introducción a la geomorfología climática|
+|3|La geomorfología en levantamiento de suelos - Geopedología|
+|4|La contribución de la geomorfología al levantamiento de suelos|
+|5|La génesis de los paisajes y las geoformas|
+|6|El paisaje geomorfológico: criterios para clasificar las geoformas|
+|7|Bases para un sistema de clasificación taxonómica de las geoformas|
+|8|La taxonomía: categorías y principales clases de geotaxa|
+|9|Tipos de relieve - El modelado de las geoformas - Taxa|
+|10|Forma de terreno - Taxa|
+|11|El paisaje geomorfológico: atributos de las geoformas|
+|12|Metodología para delimitación de unidades geomorfológicas|
+|13|El mapa geomorfológico, etapas en su elaboración|
+|14|Información incluida en el informe de un estudio geomorfológico|
+|15|Ejemplos de geoformas de acuerdo al ambiente morfogenético|
+|16|Visión preliminar sobre el contexto geomorfológico de El Salvador|
+
+<h6 style="text-align: center;">Unidad 4. SIG y Cartografia</h1>
+
+|Clase|Contenido|
+|:---:|:---|
+||**Fundamentos de SIG**|
+|1|Historia de los SIG, Definiciones y ejemplo de aplicación|
+|2|Componentes de SIG y Modelos de representación|
+|3|Descarga, Instalación, Recorrido, Complementos, Propiedades de QGIS|
+|4|Tipos y edición de Elementos Geográficos, Sistemas de coordenadas|
+|5|Introduccion de datos, Coordenadas y creación y edición de capas|
+|6|Manejo de datos atributivos - Tablas|
+|7|Analsis espacial y diseño de salidas graficas|
+|8|Algunas fuentes de información geo espacial disponible|
+||**Cartografía convencional de suelos**|
+|9|Modelos de formación de suelos|
+|10|Modelos de variación espacial de suelos|
+|11|Fundamentos de cartografía de suelos|
+|12|Levantamiento convencional de suelos|
+|13|Control de calidad de mapas de suelos|
+|14|Limitaciones del mapa convencional de suelos|
+|15|Ejercicio práctico|
+||**Cartografía Digital de suelos**|
+|16|Antecedentes, conceptos básicos|
+|17|Metoodos de Cartografía digital|
+|18|Antecedentes, conceptos básicos|
+|19|Antecedentes, conceptos básicos|
+|20|Complementacion de la cartografía convencional y digital|
+|21|Ejercicio práctico|
+
+<!--chapter:end:index.Rmd-->
+
+# **Unidad 1. Formacion de suelos** {-} 
+
+<center>![](Imagenes/Factores.png)</center>
+
+En esta unidad estudiaremos los conceptos que tienen que ver con el **“Suelo”** como cuerpo natural, tridimensional, como un sistema de tres fases, cuyos atributos son productos de la acción conjunta de los **factores y procesos formadores** de suelo. De igual manera, se tratarán las **propiedades morfológicas, físicas, químicas y biológicas** de los suelos con especial énfasis en aquellas requeridas para la clasificación taxonómica. Se incluye además diversa información relacionada con los temas tratados: clases teóricas, manuales y material bibliográfico recomendado para su lectura.
+
+---
+
+### El Suelo y el Material Parental {-}
+
+###### _Clase 1_ : El Suelo como cuerpo natural, los Factores Formadores de Suelo, el Material Parental y su participación en la génesis y propiedades de los suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema 1. y 2.1_EL Suelo. Material Parental.pdf" target="_blank" title="Suelo y Material Parental"><img src="Imagenes/presentacion3.png" alt="Suelo y Material Parental" width="126" height="107"/></a>
+<!-- <a href="disponible.html" target="_blank" title="Video introductorio Practica 10"><img src="Imagenes/Video2a.png" alt="Intruccion practica 10" width="150" height="107"/></a> -->
+</p>
+</div>
+
+---
+
+### El Clima como factor formador {-}
+
+###### _Clase 2_: El clima como un factor formador de los suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema 2.2 El Clima como factor formador de suelo.pdf" target="_blank" title="El Clima como factor formador"><img src="Imagenes/presentacion3.png" alt="El Clima" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### El Relieve como factor formador {-}
+
+###### _Clase 3_: El Relieve como un factor formador de los suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema 2.3. El Relieve como factor formador de suelo.pdf" target="_blank" title="El Relieve como factor formador"><img src="Imagenes/presentacion3.png" alt="El Relieve" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### La Biota y el Tiempo factores formadores {-}
+
+###### _Clase 4_: La Biota y el Tiempo como factores formadores de los suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema 2.4 y 2.5_ La Biota y el tiempo como factores formadores de suelo.pdf" target="_blank" title="La Biota y el Tiempo como factores formadores"><img src="Imagenes/presentacion3.png" alt="La Biota y el Tiempo" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Morfología de suelos {-}
+
+###### _Clase 5_: Morfología de suelos: Características físicas, químicas y biológicas del suelo. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema_3_Morfologia_Suelos.pdf" target="_blank" title="Morfologia Suelos"><img src="Imagenes/presentacion3.png" alt="Morfologia Suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Procesos generales de formacion de Suelos {-}
+
+###### _Clase 6_: Son acciones que se producen en el suelo como un todo o en alguno de sus componentes, por intercambios de materia y energía entre sus propios compuestos y con su medio ambiente, que con el tiempo generan cambios en la composición y/o las propiedades físicas, químicas, biológicas, mineralógicas y/o estructurales. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema_4_Procesos_formadores_Generales.pdf" target="_blank" title="Procesos Formadores de Suelo"><img src="Imagenes/presentacion3.png" alt="Procesos Formadores de Suelo" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Procesos específicos de formación de suelos {-}
+
+###### _Clase 7_: Procesos específicos de formación de suelos  {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad1/Tema_5_Procesos_específicos.pdf" target="_blank" title="Procesos específicos de formación de suelos"><img src="Imagenes/presentacion3.png" alt="Procesos específicos de formación de suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+<!--chapter:end:01-Formacion_suelos.Rmd-->
+
+# **Unidad 2. Genesis y Clasificacion de Suelos** {-}
+
+<center>![](Imagenes/Capa_suelos3.jpg)</center>
+
+En esta unidad estudiaremos los conceptos que tienen que ver con el **“Suelo”** como cuerpo natural, tridimensional, como un sistema de tres fases, cuyos atributos son productos de la acción conjunta de los **factores y procesos formadores** de suelo. De igual manera, se tratarán las **propiedades morfológicas, físicas, químicas y biológicas** de los suelos con especial énfasis en aquellas requeridas para la clasificación taxonómica. Se incluye además diversa información relacionada con los temas tratados: clases teóricas, manuales y material bibliográfico recomendado para su lectura.
+
+---
+
+### Fundamentos y Objetivos de la Clasificación de Suelos {-}
+
+###### _Clase 1_ : Porque y como clasificar taxonomicamente los Suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/6_1_Intro_Clasificacion_suelos_DES.pdf" target="_blank" title="Fundamentos y objetivos de clasificar suelos"><img src="Imagenes/presentacion3.png" alt="Fundamentos y Objetivos de clasificar" width="126" height="107"/></a>
+<!-- <a href="disponible.html" target="_blank" title="Video introductorio Practica 10"><img src="Imagenes/Video2a.png" alt="Intruccion practica 10" width="150" height="107"/></a> -->
+</p>
+</div>
+
+---
+
+### Taxonomía de Suelos {-}
+
+###### _Clase 2_: Fundamentos del sistema de clasificación de suelos "Soil Taxonomy". {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/6_2_Taxonomia_suelos.pdf" target="_blank" title="Taxonomía de Suelos"><img src="Imagenes/presentacion3.png" alt="Taxonomía de Suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Base Referencial Mundial del Recurso Suelo {-}
+
+###### _Clase 3_: Base Referencial Mundial del Recurso Suelo (WRB). {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/6_3_Base_Refer_Mundial_WRB.pdf" target="_blank" title="Base Referencial de suelos"><img src="Imagenes/presentacion3.png" alt="Base Referencial de suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+<!--chapter:end:02-Genesis_Clasificacion.Rmd-->
+
+# **Unidad 3. Relaciones suelo - paisaje** {-}
+
+<center>![](Imagenes/Paisaje1.jpg)</center>
+
+---
+
+### Introducción y Conceptos basicos en geomorfologia {-}
+
+###### _Clase 1_ : Introducción a la geomorfología climática: clima y morfogénesis. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/6_1_Intro_Clasificacion_suelos_DES.pdf" target="_blank" title="Fundamentos y objetivos de clasificar suelos"><img src="Imagenes/presentacion3.png" alt="Fundamentos y Objetivos de clasificar" width="126" height="107"/></a>
+<!-- <a href="disponible.html" target="_blank" title="Video introductorio Practica 10"><img src="Imagenes/Video2a.png" alt="Intruccion practica 10" width="150" height="107"/></a> -->
+</p>
+</div>
+
+---
+
+### Taxonomía de Suelos {-}
+
+###### _Clase 2_: Fundamentos del sistema de clasificación de suelos "Soil Taxonomy". {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/6_2_Taxonomia_suelos.pdf" target="_blank" title="Taxonomía de Suelos"><img src="Imagenes/presentacion3.png" alt="Taxonomía de Suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Base Referencial Mundial del Recurso Suelo {-}
+
+###### _Clase 3_: Base Referencial Mundial del Recurso Suelo (WRB). {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/6_3_Base_Refer_Mundial_WRB.pdf" target="_blank" title="Base Referencial de suelos"><img src="Imagenes/presentacion3.png" alt="Base Referencial de suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+<br>
+
+<center>![](Imagenes/Proximamente2.png)</center>
+
+
+
+<!--chapter:end:03-Geomorfologia.Rmd-->
+
+# **Unidad 4. SIG y Cartografia de suelos** {-} 
+
+<center>![](Imagenes/cartografia1.jpg)</center>
+
+En esta unidad estudiaremos los conceptos que tienen que ver con el **“Suelo”** como cuerpo natural, tridimensional, como un sistema de tres fases, cuyos atributos son productos de la acción conjunta de los **factores y procesos formadores** de suelo. De igual manera, se tratarán las **propiedades morfológicas, físicas, químicas y biológicas** de los suelos con especial énfasis en aquellas requeridas para la clasificación taxonómica. Se incluye además diversa información relacionada con los temas tratados: clases teóricas, manuales y material bibliográfico recomendado para su lectura.
+
+---
+
+<center><h3 style= "color: green"> Cartografía convencional de suelos</h3></center>
+
+---
+
+### Variabilidad Espacial y Cartografía de Suelos {-}
+
+###### _Clase 1_ : Necesidad de conocer como son las carateristicas, limitaciones y potencialidaes de los suelos, mediante la creación de mapas. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/9_1_Variabilidad_cartografia_suelos.pdf" target="_blank" title="Variabilidad_cartografia_suelos"><img src="Imagenes/presentacion3.png" alt="Variabilidad_cartografia_suelos" width="126" height="107"/></a>
+<!-- <a href="disponible.html" target="_blank" title="Video introductorio Practica 10"><img src="Imagenes/Video2a.png" alt="Intruccion practica 10" width="150" height="107"/></a> -->
+</p>
+</div>
+
+---
+
+### Cartografía Convencional de Suelos {-}
+
+###### _Clase 2_: Fundamentos de la cartografía convencional de los suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/9_2_Cartografia_convencional.pdf" target="_blank" title="Cartografia_convencional_suelos"><img src="Imagenes/presentacion3.png" alt="Cartografia convencional de suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+<center><h3 style= "color: green"> Cartografía digital de suelos</h3></center>
+
+---
+
+### Cartografía Digital de Suelos {-}
+
+###### _Clase 3_: Fundamentos de la cartografía digital aplicada a los suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/10_Cartografia_digital.pdf" target="_blank" title="Cartografia_digital_suelos"><img src="Imagenes/presentacion3.png" alt="Cartografia digital de suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+<!--chapter:end:04-SIG_Cartografia.Rmd-->
+
+# **Material Bibliografico** {-}
+
+<center>![](Imagenes/Bibliografia2a.png)</center>
+
+En este apartado encontrará múltiples documentos para su lectura, referentes a los temas que iremos abarcando en el Diplomado. La idea es que esto apoye el desarrollo de las teorias y ejercicios prácticos. Esperamos sea de su utilidad.
+
+#### Unidad I. Formacion de suelos{-}
+
+<center>***Cuadro 5**. Material Bibliografico para la Unidad 1.* </center>
+
+|Descripción del material|
+|:---|
+|[Introduccion a la Ciencia del Suelos](pdf/Unidad1/JARAMILLO_D.pdf)|
+|[The Nature and Properties of Soils](pdf/Unidad1/The_Nature_and_Properties_of_Soils.pdf)|
+|[Soil Science Simplified](pdf/Unidad1/Soil_Science_Simplified.pdf)|
+|[Claves para la Taxonomía de Suelos 2014](pdf/Unidad1/Soil_Taxonomy_2014_ espanol.pdf)|
+|[Guía para la descripcion de suelos FAO](pdf/Unidad1/DESCRIPCION_PERFILES_FAO.pdf)|
+|[Suelos derivados de cenizas volcanicas en Colombia](pdf/Unidad1/Lizcano_2006.pdf)|
+|[Special Issue: Sustainable Management of Volcanic Ash Soils](pdf/Unidad1/Sustainable_Management_Volcanic_Ash_Soils_2019.pdf)|
+|[Procesos especificos de formacion en Andisoles, Alfisoles y Ultisoles en Colombia](pdf/Unidad1/Sanchez_Rubiano_2015.pdf)|
+
+<br>
+
+---
+
+#### Unidad II. Genesis y Clasificacion de suelos {-}
+
+<center>***Cuadro 6**. Material Bibliografico para la Unidad 2.* </center>
+
+|Descripción del material|
+|:---|
+|[Claves para la Taxonomía de Suelos 2014](pdf/Unidad1/Soil_Taxonomy_2014_ espanol.pdf)|
+|[Base referencial mundial del recurso suelo 2014](pdf/Unidad4/WRB espanol 2014.pdf)|
+
+<br>
+
+---
+
+#### Unidad III. Relaciones suelo - paisaje {-}
+
+<center>***Cuadro 7**. Material Bibliografico para la Unidad 3.* </center>
+
+|Descripción del material|
+|:---|
+|[La geomorfología y el modelado del relieve](pdf/Unidad3/1_La_geomorfología_el_modeladodel_relieve.pdf)|
+|[Caracterizacion de la metodologia geomorfologica por Ingeominas](pdf/Unidad3/2_CARACTERIZACION _METODOLOGIA_GEOMORFOLOGICA_INGEOMINAS.pdf)|
+|[Fundamentals of Physical Geography - Geomorphic processes](pdf/Unidad3/3_Fundamentals_Physical_Geography_Geomorphic_processes.pdf)|
+|[Territorial Zoning Based on Geopedologic Information - Cap 31](pdf/Unidad3/4_Terri_1.PDF)|
+|[Geomorfología](pdf/Unidad3/5_Geomorfologia.pdf)|
+|[Paisajes Geomorfológicos de los Trópicos Húmedos y Subhúmedos](pdf/Unidad3/6_Paisajes_Geomorfológicos_Trópicos_Húmedos_Subhúmedos.pdf)|
+|[Elaboracion de cartografia geomorfologica aplicada a levantamientos de suelos](pdf/Unidad3/8_elabo_1.PDF)|
+|[Guia metodologica para la elaboracion de mapas geomorfologicos a escala 1:100.000](pdf/Unidad3/9_Guia metodologica para elaboracion de mapas geomorfologicos.pdf)|
+|[Introduction to Geomorphology - Unit 1](pdf/Unidad3/10_INTRODUCTION_TO_GEOMORPHOLOGY_2.pdf)|
+|[El Mapa Geomorfológico. Una cartografía geológica peculiar y útil](pdf/Unidad3/11_El_Mapa_Geomorfológico_Una_cartografía_geológica_peculiar_util.pdf)|
+|[Zonificación geomorfológica del Departamento del Cesar Colombia](pdf/Unidad3/12_Zonificación_geomorfológica_del_Departamento_del_Cesar.pdf)|
+|[Las geoformas volcánicas y su modelado morfométrico con SIG](pdf/Unidad3/13_Las_geoformas_volcanicas_su_modelado_morfometrico.pdf)|
+|[Relación suelo paisaje en Génesis, clasificación y cartografía de suelos tropicales](pdf/Unidad3/14_Capitulo_9_Relacion_suelo_paisaje.pdf)|
+|[**Diferentes enlaces sobre referencias del tema Relaciones suelos - paisaje**](pdf/Unidad3/ENLACES_REFERENCIAS_RECURSOS_TEMA_GEOMORFOLOGÍA.pdf)|
+
+<br>
+
+---
+
+#### Unidad IV. SIG y Cartografia {-}
+
+<center>***Cuadro 8**. Material Bibliografico para la Unidad 4.* </center>
+
+|Descripción del material|
+|:---|
+<!-- |[Evalucion de tierras con informacion escasa](pdf/Unidad3/Material_lectura_teoria_semana_15_Evalu_tierras_informacion_escasa.pdf)| -->
+
+---
+
+
+<!--chapter:end:05-Material_Bibliografico.Rmd-->
+
