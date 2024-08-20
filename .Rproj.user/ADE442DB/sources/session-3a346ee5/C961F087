@@ -1,26 +1,26 @@
 {
-    "id": "6BD9CD7B",
-    "path": "C:/Sevilla/Markdown/Salvador/index.Rmd",
-    "project_path": "index.Rmd",
+    "id": "C961F087",
+    "path": "C:/Sevilla/Markdown/Salvador/02-Genesis_Clasificacion.Rmd",
+    "project_path": "02-Genesis_Clasificacion.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1724097871919.0,
+    "created": 1724099482576.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "162,68",
-        "scrollLine": "152"
+        "cursorPosition": "24,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1724103892,
+    "lastKnownWriteTime": 1724099495,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1724103892553,
+    "last_content_update": 1724099495,
     "read_only": false,
     "read_only_alternatives": []
 }
