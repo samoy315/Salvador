@@ -181,11 +181,30 @@ A continuación en el **Cuadro 3**, se muestran los contenidos del Diplomado de 
 |15|Ejemplos de geoformas de acuerdo al ambiente morfogenético|
 |16|Visión preliminar sobre el contexto geomorfológico de El Salvador|
 
-<h6 style="text-align: center;">Unidad 4. SIG y Cartografia</h1>
+<h6 style="text-align: center;">Unidad 4. Cartografia de suelos</h1>
 
 |Clase|Contenido|
 |:---:|:---|
-||**Fundamentos de SIG**|
+||**Cartografía convencional de suelos**|
+|1|Modelos de formación de suelos|
+|2|Modelos de variación espacial de suelos|
+|3|Fundamentos de cartografía de suelos|
+|4|Levantamiento convencional de suelos|
+|5|Control de calidad de mapas de suelos|
+|6|Limitaciones del mapa convencional de suelos|
+|7|Ejercicio práctico|
+||**Cartografía Digital de suelos**|
+|8|Antecedentes, conceptos básicos|
+|9|Metoodos de Cartografía digital|
+|10|Antecedentes, conceptos básicos|
+|11|Antecedentes, conceptos básicos|
+|12|Complementacion de la cartografía convencional y digital|
+|13|Ejemplos|
+
+<h6 style="text-align: center;">Unidad 5. Sistema de informacion Geografica (SIG)</h1>
+
+|Clase|Contenido|
+|:---:|:---|
 |1|Historia de los SIG, Definiciones y ejemplo de aplicación|
 |2|Componentes de SIG y Modelos de representación|
 |3|Descarga, Instalación, Recorrido, Complementos, Propiedades de QGIS|
@@ -194,18 +213,3 @@ A continuación en el **Cuadro 3**, se muestran los contenidos del Diplomado de 
 |6|Manejo de datos atributivos - Tablas|
 |7|Analsis espacial y diseño de salidas graficas|
 |8|Algunas fuentes de información geo espacial disponible|
-||**Cartografía convencional de suelos**|
-|9|Modelos de formación de suelos|
-|10|Modelos de variación espacial de suelos|
-|11|Fundamentos de cartografía de suelos|
-|12|Levantamiento convencional de suelos|
-|13|Control de calidad de mapas de suelos|
-|14|Limitaciones del mapa convencional de suelos|
-|15|Ejercicio práctico|
-||**Cartografía Digital de suelos**|
-|16|Antecedentes, conceptos básicos|
-|17|Metoodos de Cartografía digital|
-|18|Antecedentes, conceptos básicos|
-|19|Antecedentes, conceptos básicos|
-|20|Complementacion de la cartografía convencional y digital|
-|21|Ejercicio práctico|

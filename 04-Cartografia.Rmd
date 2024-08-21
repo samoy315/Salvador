@@ -1,0 +1,55 @@
+# **Unidad 4. Cartografia de suelos** {-} 
+
+<center>![](Imagenes/cartografia1.jpg)</center>
+
+---
+
+<center><h3 style= "color: green"> Cartografía convencional de suelos</h3></center>
+
+---
+
+Los diferentes procesos físicos, químicos y biológicos que han dado origen al suelo han causado la variación de sus características tanto en profundidad (con capas u horizontes diferentes) como en sentido lateral, La necesidad de comprender la variabilidad espacial de las propiedades edáficas hace absolutamente necesario aplicar un enfoque geográfico al estudio del suelo. La geografía de suelos se describe principalmente por medio de mapas, que permiten predecir las propiedades del suelo en los sitios o áreas de interés, a partir de
+los datos obtenidos en puntos de muestreo. Este tema describe las bases conceptuales y procedimientos aplicados convencionalmente para producir mapas de suelos.
+
+
+### Variabilidad Espacial y Cartografía de Suelos {-}
+
+###### _Clase 1_ : Necesidad de conocer como son las carateristicas, limitaciones y potencialidaes de los suelos, mediante la creación de mapas. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/9_1_Variabilidad_cartografia_suelos.pdf" target="_blank" title="Variabilidad_cartografia_suelos"><img src="Imagenes/presentacion3.png" alt="Variabilidad_cartografia_suelos" width="126" height="107"/></a>
+<!-- <a href="disponible.html" target="_blank" title="Video introductorio Practica 10"><img src="Imagenes/Video2a.png" alt="Intruccion practica 10" width="150" height="107"/></a> -->
+</p>
+</div>
+
+---
+
+### Cartografía Convencional de Suelos {-}
+
+###### _Clase 2_: Fundamentos de la cartografía convencional de los suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/9_2_Cartografia_convencional.pdf" target="_blank" title="Cartografia_convencional_suelos"><img src="Imagenes/presentacion3.png" alt="Cartografia convencional de suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+<center><h3 style= "color: green"> Cartografía digital de suelos</h3></center>
+
+---
+
+Los cambios tecnológicos generados por el desarrollo de la informática han tenido un profundo impacto sobre la caracterización del suelo en los puntos de muestreo y la predicción de las propiedades edáficas en sitios no muestreados. Estos cambios tecnológicos incluyen, por ejemplo: 1) instrumentos de detección proximal del suelo; 2) modelos digitales de elevación, LiDAR y datos de percepción remota, que han potenciado la capacidad para comparar la variación espacial del suelo, con la  de otras variables ambientales; 3) métodos numéricos que permiten modelar, cuantitativamente, la variabilidad espacial del suelo con apoyo de variables ambientales auxiliares. Estos cambios tecnológicos han conducido al desarrollo de la cartografía digital del suelo.  Este tema presenta los fundamentos de este nuevo enfoque de mapeo del suelo, los procedimientos aplicados con más frecuencia, y su relación con el mapeo convencional de suelos. La relación de este tema con los otros temas del diplomado es fundamental, porque sin una base adecuada de conocimientos sobre génesis de suelo y su relación con el paisaje, el mapeo digital del suelo puede conducir a cometer errores cartográficos graves, que posiblemente queden encubiertos por vistosas presentaciones de mapas.
+
+
+### Cartografía Digital de Suelos {-}
+
+###### _Clase 3_: Fundamentos de la cartografía digital aplicada a los suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/10_Cartografia_digital.pdf" target="_blank" title="Cartografia_digital_suelos"><img src="Imagenes/presentacion3.png" alt="Cartografia digital de suelos" width="126" height="107"/></a>
+</p>
+</div>
