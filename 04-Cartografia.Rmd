@@ -18,7 +18,7 @@ los datos obtenidos en puntos de muestreo. Este tema describe las bases conceptu
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad4/9_1_Variabilidad_cartografia_suelos.pdf" target="_blank" title="Variabilidad_cartografia_suelos"><img src="Imagenes/presentacion3.png" alt="Variabilidad_cartografia_suelos" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/9_1_Variabilidad_Cartografia_suelos.pdf" target="_blank" title="Variabilidad_cartografia_suelos"><img src="Imagenes/presentacion3.png" alt="Variabilidad_cartografia_suelos" width="126" height="107"/></a>
 <!-- <a href="disponible.html" target="_blank" title="Video introductorio Practica 10"><img src="Imagenes/Video2a.png" alt="Intruccion practica 10" width="150" height="107"/></a> -->
 </p>
 </div>
@@ -31,7 +31,19 @@ los datos obtenidos en puntos de muestreo. Este tema describe las bases conceptu
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad4/9_2_Cartografia_convencional.pdf" target="_blank" title="Cartografia_convencional_suelos"><img src="Imagenes/presentacion3.png" alt="Cartografia convencional de suelos" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/9_2_Fundamentos_mapeo_convencional.pdf" target="_blank" title="Cartografia_convencional_suelos"><img src="Imagenes/presentacion3.png" alt="Cartografia convencional de suelos" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Levantamiento Convencional de Suelos {-}
+
+###### _Clase 3_: Levantamiento de suelos, Unidades taxonómicas y cartográficas, Escala del mapa de suelos, Tipos de levantamiento de suelos, Leyenda del mapa de suelos, Suelos similares y disimiles, Tipos de unidades cartográficas, Control de calidad del mapa de suelos y Objeciones al enfoque convencional de cartografía de suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/9_3_Levantamiento_ convencional_suelos.pdf" target="_blank" title="Levantamiento convencional suelos"><img src="Imagenes/presentacion3.png" alt="Levantamiento convencional suelos" width="126" height="107"/></a>
 </p>
 </div>
 
