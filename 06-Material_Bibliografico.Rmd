@@ -31,6 +31,7 @@ En este apartado encontrará múltiples documentos para su lectura, referentes a
 |:---|
 |[Claves para la Taxonomía de Suelos 2014](pdf/Unidad1/Soil_Taxonomy_2014_ espanol.pdf)|
 |[Base referencial mundial del recurso suelo 2014](pdf/Unidad4/WRB espanol 2014.pdf)|
+|[Illustrated Guide to Soil Taxonomy](pdf/Unidad2/Illustrated_Guide_to_Soil_Taxonomy.pdf)|
 
 <br>
 
@@ -67,7 +68,12 @@ En este apartado encontrará múltiples documentos para su lectura, referentes a
 
 |Descripción del material|
 |:---|
-<!-- |[Evalucion de tierras con informacion escasa](pdf/Unidad3/Material_lectura_teoria_semana_15_Evalu_tierras_informacion_escasa.pdf)| -->
+|[Metodologia para el levantamiento del recurso suelo](pdf/Unidad4/Rossiter_inventario_suelos.pdf)|
+|[The History of GIS](pdf/Unidad4/wigis_history_of_gis.pdf)|
+
+<br>
+
+---
 
 ---
 

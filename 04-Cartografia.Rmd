@@ -58,10 +58,36 @@ Los cambios tecnológicos generados por el desarrollo de la informática han ten
 
 ### Cartografía Digital de Suelos {-}
 
-###### _Clase 3_: Fundamentos de la cartografía digital aplicada a los suelos. {-}
+###### _Clase 4_: Fundamentos de la cartografía digital aplicada a los suelos. {-}
 
 <div>
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="pdf/Unidad4/10_Cartografia_digital.pdf" target="_blank" title="Cartografia_digital_suelos"><img src="Imagenes/presentacion3.png" alt="Cartografia digital de suelos" width="126" height="107"/></a>
 </p>
 </div>
+
+---
+
+### Cartografía Digital de Suelos - Antecedentes. {-}
+
+###### _Clase 5_: Introducción, Clasificación numérica de datos de suelo, Interpolación por kriging y Conjuntos borrosos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/10_1_MapeoDigital_antecedentes.pdf" target="_blank" title="Antecedentes"><img src="Imagenes/presentacion3.png" alt="Antecedentes" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Cartografía Digital de Suelos - Marco Conceptual y Metodólogico. {-}
+
+###### _Clase 6_: Datos de suelos, Variables ambientales auxiliares, metodos de inferencia espacial, validacion de resultados y sinergia entre el mapeo convencional y diigtal de suelos. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/10_2_MapeoDigital_conceptos.pdf" target="_blank" title="Mapeo digital conceptos"><img src="Imagenes/presentacion3.png" alt="Mapeo digital conceptos" width="126" height="107"/></a>
+</p>
+</div>
+
+---

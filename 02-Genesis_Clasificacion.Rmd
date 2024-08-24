@@ -40,3 +40,17 @@ Las investigaciones sobre génesis de suelos y los esfuerzos de mapeo y manejo r
 <a style = 'padding-right: 40px;' href="pdf/Unidad2/6_3_Base_Refer_Mundial_WRB.pdf" target="_blank" title="Base Referencial de suelos"><img src="Imagenes/presentacion3.png" alt="Base Referencial de suelos" width="126" height="107"/></a>
 </p>
 </div>
+
+---
+
+### Clasificaciones Interpretativas de Suelos {-}
+
+###### _Clase 4_: Clasificaciones tecnicas, Unidades de tierras, Diferencias entre Capacidad de Uso y Aptitud de Uso. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad2/6_4_Clasificaciones_interpretativas.pdf" target="_blank" title="Clasificaciones_interpretativas"><img src="Imagenes/presentacion3.png" alt="Clasificaciones_interpretativas" width="126" height="107"/></a>
+</p>
+</div>
+
+---
