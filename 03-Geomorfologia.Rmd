@@ -45,7 +45,7 @@ En este tema estudiaremos los conceptos básicos relacionados con las **relacion
 
 ---
 
-### Modulo 6: El Modelado del relieve (Modulo 6) {-}
+### Modulo 6: El Modelado del relieve. {-}
 
 ###### _Clase 4_ : Ejemplos de geoformas de acuerdo al ambiente morfogenético o de modelado del relieve (Módulo 6). {-}
 
@@ -57,7 +57,7 @@ En este tema estudiaremos los conceptos básicos relacionados con las **relacion
 
 ---
 
-### Modulo 7: Una visión preliminar de la geomorfología de el salvador (Módulo 7). {-}
+### Modulo 7: Una visión preliminar de la geomorfología de el salvador. {-}
 
 ###### _Clase 5_ : Algunos rasgos de la geomorfología de el salvador, El mapa geológico información fundamental para la caracterización geomorfológica, Actividad volcánica en el salvador, Geología general de el salvador. {-}
 
