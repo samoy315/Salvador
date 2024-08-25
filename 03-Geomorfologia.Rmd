@@ -6,7 +6,7 @@ En este tema estudiaremos los conceptos básicos relacionados con las **relacion
 
 ---
 
-### Introduccion al tema y a la Geomorfologia {-}
+### Modulo 1: Introduccion al tema y a la Geomorfologia {-}
 
 ###### _Clase 1_ : Presentación del tema Relaciones suelo - paisaje, Conceptos básicos en geomorfología e introduccion a la Geomorfología climática: Clima y Morfogenesis. (Modulo 1) {-}
 
@@ -19,7 +19,7 @@ En este tema estudiaremos los conceptos básicos relacionados con las **relacion
 
 ---
 
-### La geomorfología como herramienta fundamental en el levantamiento de suelos {-}
+### Modulo 2 y 3: La geomorfología como herramienta fundamental en el levantamiento de suelos {-}
 
 ###### _Clase 2_ : Geopedología y levantamiento de suelos (Modulo 2) - Criterios para clasificar las geoformas (módulo 3). {-}
 
@@ -32,7 +32,7 @@ En este tema estudiaremos los conceptos básicos relacionados con las **relacion
 
 ---
 
-### El Relieve en el modelo de las geoformas y la delimitacion de Unidades geomorfologicas {-}
+### Modulo 4 y 5: El Relieve en el modelo de las geoformas y la delimitacion de Unidades geomorfologicas {-}
 
 ###### _Clase 3_ : El tipos de relieve en el modelado de las geoformas (Modulo 4) y la Metodología para delimitación y definición de unidades geomorfológicas. el mapa geomorfológico (Modulo 5). {-}
 
@@ -45,7 +45,7 @@ En este tema estudiaremos los conceptos básicos relacionados con las **relacion
 
 ---
 
-### El Modelado del relieve (Modulo 6) {-}
+### Modulo 6: El Modelado del relieve (Modulo 6) {-}
 
 ###### _Clase 4_ : Ejemplos de geoformas de acuerdo al ambiente morfogenético o de modelado del relieve (Módulo 6). {-}
 
@@ -57,7 +57,7 @@ En este tema estudiaremos los conceptos básicos relacionados con las **relacion
 
 ---
 
-### Una visión preliminar de la geomorfología de el salvador (Módulo 7). {-}
+### Modulo 7: Una visión preliminar de la geomorfología de el salvador (Módulo 7). {-}
 
 ###### _Clase 5_ : Algunos rasgos de la geomorfología de el salvador, El mapa geológico información fundamental para la caracterización geomorfológica, Actividad volcánica en el salvador, Geología general de el salvador. {-}
 
