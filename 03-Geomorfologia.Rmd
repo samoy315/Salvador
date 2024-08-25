@@ -12,8 +12,8 @@ En este tema estudiaremos los conceptos básicos relacionados con las **relacion
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad3/PRESENTACIÓN_1_MARCO_TEORICO_GEOMORFOLOGÍA.pdf" target="_blank" title="Presentacion_tema_paisaje"><img src="Imagenes/presentacion4.png" alt="Presentacion_tema_paisaje" width="126" height="107"/></a>
-<a style = 'padding-right: 40px;' href="pdf/Unidad3/MÓDULO_1_CONCEPTOS_BÁSICOS_CLIMA_MORFOGÉNESIS.pdf" target="_blank" title="Conceptos geomorfología climática"><img src="Imagenes/presentacion3.png" alt="Conceptos geomorfología climática" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad3/PRESENTACION_1_MARCO_TEORICO_GEOMORFOLOGIA.pdf" target="_blank" title="Presentacion_tema_paisaje"><img src="Imagenes/presentacion3.png" alt="Presentacion_tema_paisaje" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad3/MODULO_1_CONCEPTOS_BASICOS_CLIMA_MORFOGENESIS.pdf" target="_blank" title="Conceptos geomorfología climática (Modulo 1)"><img src="Imagenes/presentacion4.png" alt="Conceptos geomorfología climática" width="126" height="107"/></a>
 </p>
 </div>
 
@@ -21,11 +21,12 @@ En este tema estudiaremos los conceptos básicos relacionados con las **relacion
 
 ### La geomorfología como herramienta fundamental en el levantamiento de suelos {-}
 
-###### _Clase 2_ : geopedología y levantamiento de suelos (módulo 2). {-}
+###### _Clase 2_ : Geopedología y levantamiento de suelos (Modulo 2) - Criterios para clasificar las geoformas (módulo 3). {-}
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad3/MÓDULO_2_GEOMORFOLOGÍA_HERRAMIENTA_EN_LEVANTAMIENTO_SUELOS.pdf" target="_blank" title="Geomorfologia en levantamientos de suelos"><img src="Imagenes/presentacion3.png" alt="Geomorfologia en levantamientos de suelos" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad3/MODULO_2_GEOMORFOLOGIA_HERRAMIENTA_EN_LEVANTAMIENTO_SUELOS.pdf" target="_blank" title="Geomorfologia levantamientos suelos (Modulo 2)"><img src="Imagenes/presentacion3.png" alt="Geomorfologia en levantamientos de suelos" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad3/MODULO_3_EL_PAISAJE_GEOMORFOLOGICO_CLASIFICAR_GEOFORMAS.pdf" target="_blank" title="Criterios de clasificar geoformas (Modulo 3)"><img src="Imagenes/presentacion4.png" alt="Criterios de clasificar geoformas (Modulo 3)" width="126" height="107"/></a>
 </p>
 </div>
 
@@ -37,7 +38,33 @@ En este tema estudiaremos los conceptos básicos relacionados con las **relacion
 
 <div>
 <p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad3/MODULO_4_RELIEVE_MODELADO_DE_GEOFORMAS.pdf" target="_blank" title="Relieve en la geoforma"><img src="Imagenes/presentacion4.png" alt="Reliieve en la geoforma" width="126" height="107"/></a>
-<a style = 'padding-right: 40px;' href="pdf/Unidad3/MÓDULO_5_METODOLOGÍA_PARA_DELIMITACIÓN_UNIDADES_GEOMORFOLÓGICAS.pdf" target="_blank" title="Delimitacion de unidades geomorfologicas"><img src="Imagenes/presentacion3.png" alt="Delimitacion de unidades geomorfologicas" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad3/MODULO_4_RELIEVE_MODELADO_DE_GEOFORMAS.pdf" target="_blank" title="Relieve en la geoforma (Modulo 4)"><img src="Imagenes/presentacion3.png" alt="Reliieve en la geoforma" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad3/MÓDULO_5_METODOLOGIA_PARA_DELIMITACION_UNIDADES_GEOMORFOLOGICAS.pdf" target="_blank" title="Delimitacion de unidades geomorfologicas (Modulo 5)"><img src="Imagenes/presentacion4.png" alt="Delimitacion de unidades geomorfologicas" width="126" height="107"/></a>
 </p>
 </div>
+
+---
+
+### El Modelado del relieve (Modulo 6) {-}
+
+###### _Clase 4_ : Ejemplos de geoformas de acuerdo al ambiente morfogenético o de modelado del relieve (Módulo 6). {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad3/MODULO_6_EJEMPLOS_GEOFORMAS_DE_ACUERDO_AMBIENTE_MORFOGENETICO.pdf" target="_blank" title="El Modelado del relieve (Modulo 6)"><img src="Imagenes/presentacion3.png" alt="El Modelado del relieve" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+### Una visión preliminar de la geomorfología de el salvador (Módulo 7). {-}
+
+###### _Clase 5_ : Algunos rasgos de la geomorfología de el salvador, El mapa geológico información fundamental para la caracterización geomorfológica, Actividad volcánica en el salvador, Geología general de el salvador. {-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad3/MODULO_7_UNA_VISION_PRELIMINAR_GEOMORFOLOGIA_SALVADOR.pdf" target="_blank" title="Visión de geomorfología El salvador (módulo 7)"><img src="Imagenes/presentacion3.png" alt="Visión de geomorfología El salvador (módulo 7)" width="126" height="107"/></a>
+</p>
+</div>
+
+---

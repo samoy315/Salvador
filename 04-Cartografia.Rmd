@@ -56,21 +56,9 @@ los datos obtenidos en puntos de muestreo. Este tema describe las bases conceptu
 Los cambios tecnológicos generados por el desarrollo de la informática han tenido un profundo impacto sobre la caracterización del suelo en los puntos de muestreo y la predicción de las propiedades edáficas en sitios no muestreados. Estos cambios tecnológicos incluyen, por ejemplo: 1) instrumentos de detección proximal del suelo; 2) modelos digitales de elevación, LiDAR y datos de percepción remota, que han potenciado la capacidad para comparar la variación espacial del suelo, con la  de otras variables ambientales; 3) métodos numéricos que permiten modelar, cuantitativamente, la variabilidad espacial del suelo con apoyo de variables ambientales auxiliares. Estos cambios tecnológicos han conducido al desarrollo de la cartografía digital del suelo.  Este tema presenta los fundamentos de este nuevo enfoque de mapeo del suelo, los procedimientos aplicados con más frecuencia, y su relación con el mapeo convencional de suelos. La relación de este tema con los otros temas del diplomado es fundamental, porque sin una base adecuada de conocimientos sobre génesis de suelo y su relación con el paisaje, el mapeo digital del suelo puede conducir a cometer errores cartográficos graves, que posiblemente queden encubiertos por vistosas presentaciones de mapas.
 
 
-### Cartografía Digital de Suelos {-}
-
-###### _Clase 4_: Fundamentos de la cartografía digital aplicada a los suelos. {-}
-
-<div>
-<p style = 'text-align:center;'>
-<a style = 'padding-right: 40px;' href="pdf/Unidad4/10_Cartografia_digital.pdf" target="_blank" title="Cartografia_digital_suelos"><img src="Imagenes/presentacion3.png" alt="Cartografia digital de suelos" width="126" height="107"/></a>
-</p>
-</div>
-
----
-
 ### Cartografía Digital de Suelos - Antecedentes. {-}
 
-###### _Clase 5_: Introducción, Clasificación numérica de datos de suelo, Interpolación por kriging y Conjuntos borrosos. {-}
+###### _Clase 4_: Introducción, Clasificación numérica de datos de suelo, Interpolación por kriging y Conjuntos borrosos. {-}
 
 <div>
 <p style = 'text-align:center;'>
@@ -82,7 +70,7 @@ Los cambios tecnológicos generados por el desarrollo de la informática han ten
 
 ### Cartografía Digital de Suelos - Marco Conceptual y Metodólogico. {-}
 
-###### _Clase 6_: Datos de suelos, Variables ambientales auxiliares, metodos de inferencia espacial, validacion de resultados y sinergia entre el mapeo convencional y diigtal de suelos. {-}
+###### _Clase 5_: Datos de suelos, Variables ambientales auxiliares, metodos de inferencia espacial, validacion de resultados y sinergia entre el mapeo convencional y diigtal de suelos. {-}
 
 <div>
 <p style = 'text-align:center;'>
