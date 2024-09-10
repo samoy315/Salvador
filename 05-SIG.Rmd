@@ -32,7 +32,7 @@ Nuestra intención es incrementar la destreza de los estudiantes en el manejo de
 <div>
 <p style = 'text-align:center;'>
 <a style = 'padding-right: 40px;' href="pdf/Unidad4/3_Componentes_FSIG_Vs.pdf" target="_blank" title="Componentes SIG"><img src="Imagenes/presentacion4.png" alt="Componentes SIG" width="126" height="107"/></a>
-<a style = 'padding-right: 40px;' href="pdf/Unidad4/xxx.pdf" target="_blank" title="Ejemplos de aplicaciones SIG"><img src="Imagenes/presentacion3.png" alt="Ejemplos de aplicaciones SIG" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/4_Ejemplos_aplicacion_FSIG_Vs.pdf" target="_blank" title="Ejemplos de aplicaciones SIG"><img src="Imagenes/presentacion3.png" alt="Ejemplos de aplicaciones SIG" width="126" height="107"/></a>
 </p>
 </div>
 
