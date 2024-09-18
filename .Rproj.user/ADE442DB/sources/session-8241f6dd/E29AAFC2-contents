@@ -1,0 +1,91 @@
+# **Unidad 5. SIG.** {-} 
+
+<!-- <center>![](Imagenes/sig2.jpg)</center> -->
+<center>![](Imagenes/sig_geografia2.jpg)</center>
+
+En este tema estudiaremos aspectos teóricos y prácticos de la tecnología de los **Sistemas de información Geográfica (SIG)**, como son los conceptos, historia, componentes, bondades, funciones y ejemplos de su aplicación en estudios agroambientales.
+
+Nuestra intención es incrementar la destreza de los estudiantes en el manejo de las herramientas básicas de esta tecnología,  especialmente aquellas que se relacionan con el levantamiento y cartografía de suelos. Destacando la introducción y manejo de datos espaciales y atributivos, la edición de elementos geográficos, el análisis espacial y el diseño de  salidas gráficas para impresión de mapas de suelos. Para lograr nuestro objetivo emplearemos una estrategia teoría- práctica, que hace énfasis en un ejercicio integral, en donde emplearemos diferentes técnicas SIG.
+
+
+---
+
+### Presentacion del Tema y definicion e Historia de los SIG {-}
+
+###### _Clase 1_ : En esta clase presentaremos el tema SIG, contaremos una breve historia y evolución de los mismos, conceptos relevantes y comenzaremos el ejercicio práctico con la instalacion y configuracion de QGIS.{-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/1_Presentacion_FSIG_Vs.pdf" target="_blank" title="Presentacion del tema SIG"><img src="Imagenes/presentacion4.png" alt="Presentacion del tema SIG" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/2_Definicion_Historiacion_FSIG_Vs.pdf" target="_blank" title="Conceptos e Historia SIG"><img src="Imagenes/presentacion3.png" alt="Historia y definiciones SIG" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/Ejercicico_practico_Sal_180924.pdf" target="_blank" title="Guia ejercicio practico"><img src="Imagenes/practica3.png" alt="Guia ejercicio practico" width="126" height="107"/></a>
+<a href="https://drive.google.com/drive/folders/1DHkdeDHKEp0UKnPshgkWSP3xKf1lgs76?usp=sharing" target="_blank" title="Material practico"><img src="Imagenes/Google_Drive_logo1.png" alt="Material practico" width="130" height="117"/></a>
+</p>
+</div>
+
+---
+
+### Componentes de los SIG y ejemplos de su aplicación en estudios Agroambientales. {-}
+
+###### _Clase 2_ : En esta clase cubriremos aspectos como los elementos que forman parte de la tecnología SIG, ejemplos de la aplicación de herramientas de esta tecnología en estudios agroambientales y continuaremos con el ejercicio práctico con temas como la adición de capas a un proyecto y la configuración de sus propiedades.{-}
+
+<div>
+<p style = 'text-align:center;'>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/3_Componentes_FSIG_Vs.pdf" target="_blank" title="Componentes SIG"><img src="Imagenes/presentacion4.png" alt="Componentes SIG" width="126" height="107"/></a>
+<a style = 'padding-right: 40px;' href="pdf/Unidad4/4_Ejemplos_aplicacion_FSIG_Vs.pdf" target="_blank" title="Ejemplos de aplicaciones SIG"><img src="Imagenes/presentacion3.png" alt="Ejemplos de aplicaciones SIG" width="126" height="107"/></a>
+</p>
+</div>
+
+---
+
+<!-- ### Edición de elementos geográficos {-} -->
+
+<!-- ###### _Clase 3_ : En esta clase cubriremos aspectos relacionados a la Edición de elemntos geograficos.{-} -->
+
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad5/xxx.pdf" target="_blank" title="Presentacion del tema SIG"><img src="Imagenes/presentacion4.png" alt="Presentacion del tema SIG" width="126" height="107"/></a> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad5/xxx.pdf" target="_blank" title="Historia y definiciones SIG"><img src="Imagenes/presentacion3.png" alt="Historia y definiciones SIG" width="126" height="107"/></a> -->
+<!-- </p> -->
+<!-- </div> -->
+
+<!-- --- -->
+
+<!-- ### Manejo de tablas {-} -->
+
+<!-- ###### _Clase 4_ : En esta clase cubriremos aspectos sobre el manejo de tablas y atributos.{-} -->
+
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad5/xxx.pdf" target="_blank" title="Presentacion del tema SIG"><img src="Imagenes/presentacion4.png" alt="Presentacion del tema SIG" width="126" height="107"/></a> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad5/xxx.pdf" target="_blank" title="Historia y definiciones SIG"><img src="Imagenes/presentacion3.png" alt="Historia y definiciones SIG" width="126" height="107"/></a> -->
+<!-- </p> -->
+<!-- </div> -->
+
+<!-- --- -->
+
+<!-- ### Analisis espacial {-} -->
+
+<!-- ###### _Clase 5_ : En esta clase cubriremos aspectos relacionados al Analisis espacial.{-} -->
+
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad5/xxx.pdf" target="_blank" title="Presentacion del tema SIG"><img src="Imagenes/presentacion4.png" alt="Presentacion del tema SIG" width="126" height="107"/></a> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad5/xxx.pdf" target="_blank" title="Historia y definiciones SIG"><img src="Imagenes/presentacion3.png" alt="Historia y definiciones SIG" width="126" height="107"/></a> -->
+<!-- </p> -->
+<!-- </div> -->
+
+<!-- --- -->
+
+<!-- ### Diseño de salidas gráficas {-} -->
+
+<!-- ###### _Clase 6_ : En esta clase cubriremos aspectos relacionados al diseño de salidas graficas y posibles fuentes de geo informacion de variables ambintales auxiliares.{-} -->
+
+<!-- <div> -->
+<!-- <p style = 'text-align:center;'> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad5/xxx.pdf" target="_blank" title="Presentacion del tema SIG"><img src="Imagenes/presentacion4.png" alt="Presentacion del tema SIG" width="126" height="107"/></a> -->
+<!-- <a style = 'padding-right: 40px;' href="pdf/Unidad5/xxx.pdf" target="_blank" title="Historia y definiciones SIG"><img src="Imagenes/presentacion3.png" alt="Historia y definiciones SIG" width="126" height="107"/></a> -->
+<!-- </p> -->
+<!-- </div> -->
+
+<!-- --- -->
