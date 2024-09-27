@@ -1,7 +1,7 @@
-# **Unidad 5. SIG.** {-} 
+# **Unidad 5. Fundamentos de SIG.** {-} 
 
 <!-- <center>![](Imagenes/sig2.jpg)</center> -->
-<center>![](Imagenes/sig_geografia2.jpg)</center>
+<center>![](Imagenes/sig_geografia3.jpg)</center>
 
 En este tema estudiaremos aspectos teóricos y prácticos de la tecnología de los **Sistemas de información Geográfica (SIG)**, como son los conceptos, historia, componentes, bondades, funciones y ejemplos de su aplicación en estudios agroambientales.
 
