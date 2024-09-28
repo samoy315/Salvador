@@ -195,11 +195,9 @@ A continuación en el **Cuadro 3**, se muestran los contenidos del Diplomado de 
 |7|Ejercicio práctico|
 ||**Cartografía Digital de suelos**|
 |8|Antecedentes, conceptos básicos|
-|9|Metoodos de Cartografía digital|
-|10|Antecedentes, conceptos básicos|
-|11|Antecedentes, conceptos básicos|
-|12|Complementacion de la cartografía convencional y digital|
-|13|Ejemplos|
+|9|Metodos de Cartografía digital|
+|10|Complementacion de la cartografía convencional y digital|
+|11|Ejemplos|
 
 <h6 style="text-align: center;">Unidad 5. Sistema de informacion Geografica (SIG)</h1>
 
