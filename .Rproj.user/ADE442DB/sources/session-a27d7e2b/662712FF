@@ -3,7 +3,7 @@
     "path": "C:/Sevilla/Markdown/Salvador/07-videoteca.Rmd",
     "project_path": "07-videoteca.Rmd",
     "type": "r_markdown",
-    "hash": "3773211520",
+    "hash": "789904218",
     "contents": "",
     "dirty": false,
     "created": 1727459715618.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "60,5",
-        "scrollLine": "50"
+        "cursorPosition": "54,3",
+        "scrollLine": "40"
     },
     "folds": "",
-    "lastKnownWriteTime": 1727537295,
+    "lastKnownWriteTime": 1727744698,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1727537296002,
+    "last_content_update": 1727744698754,
     "read_only": false,
     "read_only_alternatives": []
 }

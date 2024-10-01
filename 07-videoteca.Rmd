@@ -48,7 +48,7 @@ En este espacio estarán disponibles todos los **videos** de las clases impartid
 
 <div>
 <p style = 'text-align:center;'>
-<a href="https://youtu.be/JE0vUiCQrvs" target="_blank" title="Videos de  Cartografia de suelos"><img src="Imagenes/cartografia1.jpg" alt="Videos de  Cartografia de suelos" width="245" height="153"/></a>
+<a href="https://drive.google.com/drive/folders/1RpmQJbzTXjEqp-rmf6IXi5DbXM4BnhZv?usp=sharing" target="_blank" title="Videos de  Cartografia de suelos"><img src="Imagenes/cartografia1.jpg" alt="Videos de  Cartografia de suelos" width="245" height="153"/></a>
 </p>
 </div>
 
