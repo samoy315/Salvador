@@ -69,7 +69,6 @@ En este apartado encontrará múltiples documentos para su lectura, referentes a
 |Descripción del material|
 |:---|
 |[Metodologia para el levantamiento del recurso suelo](pdf/Unidad4/Rossiter_inventario_suelos.pdf)|
-|[Metodologia para el levantamiento del recurso suelo](pdf/Unidad4/Rossiter_inventario_suelos.pdf)|
 |[The History of GIS](pdf/Unidad4/wigis_history_of_gis.pdf)|
 |[Cambio climático una gran amenaza para cultivo del café](https://www.fusagri.com/post/cafe_lara/ "Cambio climático una gran amenaza para cultivo del café")|
 |[Manual de Aprendizaje QGIS](https://docs.qgis.org/3.34/es/docs/training_manual/ "Manual de Aprendizaje QGIS")|
